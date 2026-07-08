@@ -1,0 +1,23 @@
+{
+  "dataset": "buying-guides-index",
+  "version": "1.0.0",
+  "lastUpdated": "2026-07-08",
+  "baseUrl": "https://podpickguide.com",
+  "guides": [
+    { "slug": "how-to-pick-first-pod-flavor", "title": "第一次买烟弹：口味怎么选才不踩雷？", "category": "新手指南", "dateIso": "2026-05-10" },
+    { "slug": "beginner-pod-flavors-2026", "title": "2026 新手烟弹口味排行", "category": "新手指南", "dateIso": "2026-05-20" },
+    { "slug": "coolness-and-sweetness-guide", "title": "凉度与甜度怎么看？", "category": "口味指南", "dateIso": "2026-04-20" },
+    { "slug": "sp2s-gen1-vs-gen2-pods", "title": "SP2S 一代 vs 二代烟弹", "category": "选购对比", "dateIso": "2026-05-08" },
+    { "slug": "sp2s-vs-lana-pod-how-to-choose", "title": "SP2S vs LANA 怎么选？", "category": "选购对比", "dateIso": "2026-05-18" },
+    { "slug": "disposable-vs-refillable-pods", "title": "拋棄式 vs 換彈式", "category": "选购对比", "dateIso": "2026-05-05" },
+    { "slug": "identify-counterfeit-pods", "title": "如何辨别假烟弹？", "category": "选购对比", "dateIso": "2026-05-16" },
+    { "slug": "sp2s-pod-flavor-guide", "title": "SP2S 32 款完整评测", "category": "口味指南", "dateIso": "2026-04-03" },
+    { "slug": "tea-and-dessert-pod-flavors", "title": "茶饮与甜点系烟弹", "category": "口味指南", "dateIso": "2026-04-15" },
+    { "slug": "seasonal-pod-flavor-guide", "title": "夏天冬天适合什么口味？", "category": "口味指南", "dateIso": "2026-05-22" },
+    { "slug": "pod-no-flavor-or-burned-taste", "title": "烟弹没味道、有糊味怎么办？", "category": "使用技巧", "dateIso": "2026-05-15" },
+    { "slug": "pod-leaking-troubleshooting", "title": "烟弹漏油怎么办？", "category": "使用技巧", "dateIso": "2026-05-01" },
+    { "slug": "pod-gurgling-spitback-fix", "title": "烟弹咕噜声、炸油怎么处理？", "category": "使用技巧", "dateIso": "2026-05-12" },
+    { "slug": "pod-storage-shelf-life", "title": "烟弹保存与效期", "category": "使用技巧", "dateIso": "2026-04-28" },
+    { "slug": "how-often-replace-pod-cartridge", "title": "烟弹多久换一次？", "category": "使用技巧", "dateIso": "2026-05-14" }
+  ]
+}

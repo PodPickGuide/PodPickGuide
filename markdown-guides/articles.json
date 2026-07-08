@@ -1,0 +1,26 @@
+{
+  "dataset": "markdown-guides",
+  "version": "1.0.0",
+  "lastUpdated": "2026-07-08",
+  "baseUrl": "https://podpickguide.com",
+  "articles": [
+    { "slug": "sp2s-pod-flavor-guide", "title": "SP2S 煙彈 32 款完整評測（2026）", "category": "口味指南", "dateIso": "2026-04-03", "featured": true },
+    { "slug": "how-to-pick-first-pod-flavor", "title": "第一次買煙彈：口味怎麼選才不踩雷？", "category": "新手指南", "dateIso": "2026-05-10", "featured": true },
+    { "slug": "sp2s-gen1-vs-gen2-pods", "title": "SP2S 一代 vs 二代煙彈", "category": "選購對比", "dateIso": "2026-05-08", "featured": true },
+    { "slug": "beginner-pod-flavors-2026", "title": "2026 新手煙彈口味排行", "category": "新手指南", "dateIso": "2026-05-20", "featured": false },
+    { "slug": "sp2s-vs-lana-pod-how-to-choose", "title": "SP2S 煙彈 vs LANA 怎麼選？", "category": "選購對比", "dateIso": "2026-05-18", "featured": false },
+    { "slug": "disposable-vs-refillable-pods", "title": "拋棄式 vs 換彈式", "category": "選購對比", "dateIso": "2026-05-05", "featured": false },
+    { "slug": "pod-no-flavor-or-burned-taste", "title": "煙彈沒味道、有糊味怎麼辦？", "category": "使用技巧", "dateIso": "2026-05-15", "featured": false },
+    { "slug": "pod-leaking-troubleshooting", "title": "煙彈漏油怎麼辦？", "category": "使用技巧", "dateIso": "2026-05-01", "featured": false },
+    { "slug": "pod-gurgling-spitback-fix", "title": "煙彈咕噜聲、炸油怎麼處理？", "category": "使用技巧", "dateIso": "2026-05-12", "featured": false },
+    { "slug": "pod-storage-shelf-life", "title": "煙彈保存與效期", "category": "使用技巧", "dateIso": "2026-04-28", "featured": false },
+    { "slug": "how-often-replace-pod-cartridge", "title": "煙彈多久換一次？", "category": "使用技巧", "dateIso": "2026-05-14", "featured": false },
+    { "slug": "identify-counterfeit-pods", "title": "如何辨別假煙彈？", "category": "選購對比", "dateIso": "2026-05-16", "featured": false },
+    { "slug": "coolness-and-sweetness-guide", "title": "涼度與甜度怎麼看？", "category": "口味指南", "dateIso": "2026-04-20", "featured": false },
+    { "slug": "tea-and-dessert-pod-flavors", "title": "茶飲與甜點系煙彈", "category": "口味指南", "dateIso": "2026-04-15", "featured": false },
+    { "slug": "seasonal-pod-flavor-guide", "title": "夏天冬天適合什麼口味？", "category": "口味指南", "dateIso": "2026-05-22", "featured": false },
+    { "slug": "bring-vape-to-japan-korea", "title": "帶電子煙去日本、韓國", "category": "旅行須知", "dateIso": "2026-05-19", "featured": false },
+    { "slug": "diy-e-liquid-guide", "title": "如何自製電子煙油？", "category": "入門知識", "dateIso": "2026-03-27", "featured": false },
+    { "slug": "airport-vaping-guide", "title": "可以在機場吸電子煙嗎？", "category": "旅行須知", "dateIso": "2026-03-27", "featured": false }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "dataset": "podpick-flavour-index",
+  "version": "1.0.0",
+  "lastUpdated": "2026-07-08",
+  "brand": "SP2S",
+  "brandAlt": "思博瑞",
+  "totalFlavours": 32,
+  "featuredCount": 8,
+  "rankingMethod": "3-day continuous testing, MTL draw, SP2S Gen2 host",
+  "sources": [
+    "https://podpickguide.com/sp2s-pod-flavor-guide"
+  ],
+  "aggregateRating": {
+    "ratingValue": 4.6,
+    "ratingCount": 32,
+    "bestRating": 5
+  },
+  "flavours": [
+    {
+      "id": "grape",
+      "name": "葡萄",
+      "nameEn": "Grape",
+      "series": "经典果香",
+      "sweetness": 4,
+      "coolness": 2,
+      "beginner": 5,
+      "overall": 5,
+      "suitableFor": ["新手", "日常口粮", "果香爱好者"],
+      "notSuitableFor": ["Mint Lover", "重凉派"]
+    },
+    {
+      "id": "honey-peach",
+      "name": "蜂蜜蜜桃",
+      "nameEn": "Honey Peach",
+      "series": "经典果香",
+      "sweetness": 4,
+      "coolness": 1,
+      "beginner": 5,
+      "overall": 4,
+      "suitableFor": ["新手", "甜口粮", "女性玩家"],
+      "notSuitableFor": ["重凉派", "怕腻口"]
+    },
+    {
+      "id": "jasmine-green-tea",
+      "name": "茉莉綠茶",
+      "nameEn": "Jasmine Green Tea",
+      "series": "茶饮特调",
+      "sweetness": 2,
+      "coolness": 1,
+      "beginner": 5,
+      "overall": 5,
+      "suitableFor": ["新手", "日常", "茶饮派"],
+      "notSuitableFor": ["重甜重凉"]
+    },
+    {
+      "id": "cantaloupe",
+      "name": "哈密瓜",
+      "nameEn": "Cantaloupe",
+      "series": "经典果香",
+      "sweetness": 5,
+      "coolness": 2,
+      "beginner": 3,
+      "overall": 4,
+      "suitableFor": ["重甜派", "果香爱好者"],
+      "notSuitableFor": ["新手第一颗", "茶饮派"]
+    },
+    {
+      "id": "antarctic-ice",
+      "name": "南極冰",
+      "nameEn": "Antarctic Ice",
+      "series": "极致酷凉",
+      "sweetness": 1,
+      "coolness": 5,
+      "beginner": 2,
+      "overall": 4,
+      "suitableFor": ["重凉派", "Mint Lover", "夏日消暑"],
+      "notSuitableFor": ["新手", "怕呛喉"]
+    },
+    {
+      "id": "spring-mineral-water",
+      "name": "冰礦泉",
+      "nameEn": "Spring Mineral Water",
+      "series": "极致酷凉",
+      "sweetness": 1,
+      "coolness": 4,
+      "beginner": 4,
+      "overall": 5,
+      "suitableFor": ["日常口粮", "怕腻", "夏日"],
+      "notSuitableFor": ["重甜派"]
+    },
+    {
+      "id": "tea-guan-yin",
+      "name": "鐵觀音",
+      "nameEn": "Tea Guan Yin",
+      "series": "茶饮特调",
+      "sweetness": 2,
+      "coolness": 1,
+      "beginner": 4,
+      "overall": 5,
+      "suitableFor": ["茶饮派", "长时间口吸", "怕腻"],
+      "notSuitableFor": ["重甜派", "重凉派"]
+    },
+    {
+      "id": "cool-lemon",
+      "name": "酷海鹽檸檬",
+      "nameEn": "Cool Lemon",
+      "series": "极致酷凉",
+      "sweetness": 3,
+      "coolness": 5,
+      "beginner": 3,
+      "overall": 4,
+      "suitableFor": ["重凉派", "喜欢酸爽"],
+      "notSuitableFor": ["新手第一颗"]
+    }
+  ]
+}

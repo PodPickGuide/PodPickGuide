@@ -1,0 +1,27 @@
+{
+  "dataset": "flavour-ranking",
+  "version": "1.0.0",
+  "lastUpdated": "2026-07-08",
+  "title": "2026 新手烟弹口味排行 TOP 5",
+  "sources": [
+    "https://podpickguide.com/beginner-pod-flavors-2026"
+  ],
+  "quickAnswer": {
+    "firstPick": "葡萄",
+    "dailyUse": "茉莉綠茶",
+    "cooling": "冰礦泉",
+    "bundle3": ["葡萄", "茉莉綠茶", "冰礦泉"]
+  },
+  "ranking": [
+    { "rank": 1, "flavour": "葡萄", "sweetness": 4, "coolness": 2, "reason": "最大眾、容錯率最高" },
+    { "rank": 2, "flavour": "茉莉綠茶", "sweetness": 2, "coolness": 1, "reason": "耐抽、不腻、口糧首選" },
+    { "rank": 3, "flavour": "蜂蜜蜜桃", "sweetness": 4, "coolness": 1, "reason": "甜度高但親和力強" },
+    { "rank": 4, "flavour": "冰礦泉", "sweetness": 1, "coolness": 4, "reason": "清爽涼感、夏日友善" },
+    { "rank": 5, "flavour": "鐵觀音", "sweetness": 2, "coolness": 1, "reason": "茶韻、長時間使用" }
+  ],
+  "avoidForBeginners": [
+    "極重涼薄荷（南極冰、純薄荷）",
+    "超高甜度奶類、甜點系",
+    "沙士啤酒、老冰棍等獵奇小眾款"
+  ]
+}
