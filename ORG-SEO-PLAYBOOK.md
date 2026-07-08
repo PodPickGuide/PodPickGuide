@@ -97,7 +97,7 @@ sp2s, alibarbar, buying-guide, public-dataset
 
 ## 当前状态
 
-- ✅ 5 个主题仓库已创建（aozhou792 账号下，待迁移到 Org）
-- ✅ Org Profile README 模板已准备
-- ⏳ 需在 GitHub 网页创建 Organization 后迁移仓库
+- ✅ GitHub Organization `PodPickGuide` 已创建
+- ✅ 6 个主题仓库已迁移至 Organization
+- ✅ Org Profile README 已部署（`.github` 仓库）
 - ⏳ 需在 podpickguide.com 添加互链
