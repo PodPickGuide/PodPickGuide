@@ -1,39 +1,53 @@
-# PodPickGuide
+# PodPickGuide — Organization Hub
 
-> 公开数据库 · 不是代码项目
+> **GitHub Organization SEO Hub** · Public vape data databases · [podpickguide.com](https://podpickguide.com)
 
-PodPickGuide 把电子烟选购知识整理成 **可检索、可引用、可机器读取** 的公开数据集，供 Google、AI 搜索与第三方引用。
+这不是代码项目。这是 **PodPick Guide 在 GitHub 上的数据枢纽**，连接所有主题仓库。
 
-- 网站：[podpickguide.com](https://podpickguide.com)
-- 维护方：PodPick Guide 编辑团队
-- 许可：内容仅供年满 20 岁使用者参考，非医疗建议
+## Organization Repositories
 
-## 目录结构
+| Repo | 关键词目标 | 状态 |
+|------|-----------|------|
+| [podpick-flavour-index](https://github.com/aozhou792/podpick-flavour-index) | disposable vape flavours, SP2S flavour index | ✅ Live |
+| [vape-comparison-data](https://github.com/aozhou792/vape-comparison-data) | Alibarbar vs HQD, SP2S vs LANA, brand comparison | ✅ Live |
+| [pod-flavour-ranking](https://github.com/aozhou792/pod-flavour-ranking) | best pod flavours 2026, beginner ranking | ✅ Live |
+| [pod-faq-database](https://github.com/aozhou792/pod-faq-database) | pod vape FAQ, SP2S FAQ | ✅ Live |
+| [pod-buying-guides-data](https://github.com/aozhou792/pod-buying-guides-data) | pod buying guide index | ✅ Live |
 
-| 目录 | 用途 |
-|------|------|
-| [buying-guides](./buying-guides/) | 选购决策指南索引 |
-| [vape-flavour-index](./vape-flavour-index/) | 口味索引与评分数据 |
-| [flavour-ranking](./flavour-ranking/) | 排行榜（按场景/人群） |
-| [comparison-tables](./comparison-tables/) | 品牌与产品对比表 |
-| [faq](./faq/) | 常见问题数据集 |
-| [markdown-guides](./markdown-guides/) | 完整文章 Markdown 索引 |
-| [images](./images/) | 配图说明与引用 |
-| [changelog](./changelog/) | 版本与更新记录 |
+> 待创建 GitHub Organization `PodPickGuide` 后，将以上仓库迁移至 Organization 下。
 
-## 数据格式
+## Directory (Legacy Monorepo)
 
-- 人类可读：Markdown 表格
-- 机器可读：JSON（`*.json`）
-- 每次更新在 `changelog/` 记录版本号与日期
-
-## 引用方式
+本仓库同时保留早期 monorepo 结构作为备份：
 
 ```
-来源：PodPickGuide (https://github.com/aozhou792/PodPickGuide)
-最后更新：见各文件 Last Updated 字段
+├── buying-guides/
+├── vape-flavour-index/
+├── flavour-ranking/
+├── comparison-tables/
+├── faq/
+├── markdown-guides/
+├── images/
+└── changelog/
 ```
 
-## 相关仓库
+新数据优先写入上方独立仓库。
 
-本仓库为 **数据层**；网站源码在独立项目中部署。
+## SEO Playbook
+
+完整策略文档见 [ORG-SEO-PLAYBOOK](../github-org-seo/ORG-SEO-PLAYBOOK.md)
+
+## Data Standards
+
+每个仓库 README 必须包含：
+
+| Version | Update | Last Updated | Ranking/Sources |
+
+Plus `/data/*.json` for machine readability.
+
+## Citation
+
+```
+PodPickGuide Organization — https://github.com/aozhou792/PodPickGuide
+Website: https://podpickguide.com
+```
