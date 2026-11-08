@@ -1,5 +1,10 @@
 # Changelog
 
+## [2026-11-08] Alibarbar domain warnings
+
+- Document official AU shop vs fake `ailibarbar.com` on org hub README and brand comparison notes
+
+
 ## [1.0.0] — 2026-07-08
 
 ### Added

@@ -19,7 +19,10 @@
       "compatibility": "SP2S 一代/二代弹匣不互通",
       "flavourCount": "32+",
       "flavourStyle": "果凉、茶饮、重凉选择多",
-      "bestFor": ["口味轮换", "长期口粮"]
+      "bestFor": [
+        "口味轮换",
+        "长期口粮"
+      ]
     },
     {
       "id": "lana",
@@ -32,7 +35,9 @@
       "compatibility": "LANA 专用弹匣",
       "flavourCount": "20+",
       "flavourStyle": "偏清爽、果香明确",
-      "bestFor": ["已有 LANA 主机用户"]
+      "bestFor": [
+        "已有 LANA 主机用户"
+      ]
     },
     {
       "id": "alibarbar",
@@ -45,7 +50,9 @@
       "compatibility": "Alibarbar 专用弹匣",
       "flavourCount": "依产品线",
       "flavourStyle": "偏高端、设计导向",
-      "bestFor": ["设计/质感偏好者"]
+      "bestFor": [
+        "设计/质感偏好者"
+      ]
     },
     {
       "id": "hqd",
@@ -58,7 +65,15 @@
       "compatibility": "无换弹",
       "flavourCount": "依型号",
       "flavourStyle": "便携、口味固定",
-      "bestFor": ["偶尔使用", "旅行"]
+      "bestFor": [
+        "偶尔使用",
+        "旅行"
+      ]
     }
-  ]
+  ],
+  "meta": {
+    "alibarbarOfficialStore": "https://www.alibarbarigetvape.com",
+    "alibarbarFakeImitationStore": "ailibarbar.com",
+    "alibarbarDomainWarning": "ailibarbar.com is a fake imitation store. Buy only at https://www.alibarbarigetvape.com. alibarbar.com is the global brand website, not the AU checkout."
+  }
 }
