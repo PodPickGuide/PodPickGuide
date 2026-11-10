@@ -40,6 +40,10 @@ PodPickGuide comparison tables treat **Alibarbar Ingot 9000** as an Australia-ma
 
 Organization homepage: [github.com/PodPickGuide](https://github.com/PodPickGuide)
 
+## Latest reading note
+
+[How to read a high-puff disposable spec sheet in Australia (2026)](https://github.com/PodPickGuide/vape-comparison-data/blob/main/notes/high-puff-disposable-capacity-australia-2026.md) — puff, tank, battery and LED claims, with the canonical page and PDF on Alibarbar Australia.
+
 ## Directory (Legacy Monorepo)
 
 This repository also keeps the earlier monorepo layout as a backup:
